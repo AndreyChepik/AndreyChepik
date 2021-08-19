@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreyChepik
+- 👋 Hi, I’m AndreyChepik
 - 👀 I’m interested in python/django
 - 🌱 I’m currently learning django/js
 - 💞️ I’m looking to collaborate on interestins opensource projects
