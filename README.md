@@ -1,6 +1,5 @@
 - 👋 Hi, I’m AndreyChepik
-- 👀 I’m interested in python/django
-- 🌱 I’m currently learning django/JS
+- 👀 I’m interested in Node.js/Angular
 - 💞️ I’m looking to collaborate on interesting opensource projects
 - 📫 How to reach me: and4working@gmail.com
 
